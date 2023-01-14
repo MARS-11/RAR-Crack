@@ -1,8 +1,31 @@
 ## RAR-Crack
 
+<img src="https://graph.org/file/d523daae9e6c0ad5233eb.jpg">
 
-**[What the hell this 😴❤️‍🩹](https://t.me/Team_Mars_11/5709)**
+**<p align="center"><a href="https://t.me/Team_Mars_11/5709">What the hell this 😴❤️‍🩹</a></p>**
 
-A dictionary attack implementation, for the automated cracking of password-protected RAR files with the help of a supplied dictionary file.
+## LICENSE
+
+**MIT License**
 
 **Copyright © 2023 [MARS-11ᵀᴹ 🇱🇰](https://t.me/Team_Mars_11)**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
